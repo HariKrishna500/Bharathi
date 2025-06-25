@@ -3,6 +3,8 @@ package package1;
 public class Encapsulation {
 	
 	private String name;
+
+	private String address; 
 	
     private int age;
 
